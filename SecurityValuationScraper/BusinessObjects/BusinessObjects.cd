@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="SecurityValuationScraper.BusinessObjects.LineItem">
+    <Position X="5.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAIAEAgAAAgAAAAAAAAAQAAAAAAAAAAAQgAAAAAAA=</HashCode>
+      <FileName>BusinessObjects\LineItem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SecurityValuationScraper.BusinessObjects.Report">
+    <Position X="3.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAAAAAAAAAAAACAIAAAAAAEAAAIYAAAAEAAAA=</HashCode>
+      <FileName>BusinessObjects\Report.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SecurityValuationScraper.BusinessObjects.Security">
+    <Position X="1" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAQAAAAAAABAAAAAAoBAAAAIAEAAAABAAQAACBCAE=</HashCode>
+      <FileName>BusinessObjects\Security.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SecurityValuationScraper.BusinessObjects.EPSReport">
+    <Position X="2.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAABAAAAAAAAAAAAAIAAAAAAABAAAAAAAAAAAA=</HashCode>
+      <FileName>BusinessObjects\EPSReport.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SecurityValuationScraper.EPSRQuarter">
+    <Position X="4.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAAAAAAAAAAAAAAAAAAAEAAABAAAAgAAAAAAA=</HashCode>
+      <FileName>BusinessObjects\EPSReportQuarter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SecurityValuationScraper.BusinessObjects.KeyStatsReport">
+    <Position X="6.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAACAAAAAAAAAAAACAAAAAAAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>BusinessObjects\KeyStatsReport.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SecurityValuationScraper.BusinessObjects.KeyStatsLineItem">
+    <Position X="8" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAIAEAgAAAgAAAAAAAAAQAAAAAAAAAAAQgAAAAAAA=</HashCode>
+      <FileName>BusinessObjects\KeyStatsLineItem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SecurityValuationScraper.BusinessObjects.DailyOHLC">
+    <Position X="9.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAABgIAAARgAAAAAAAAgABAABAAIIAACAAAA=</HashCode>
+      <FileName>BusinessObjects\DailyOHLC.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="SecurityValuationScraper.BusinessObjects.ReportType">
+    <Position X="10.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAQgAAAAAAA=</HashCode>
+      <FileName>BusinessObjects\Enums.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Tahoma" Size="8.25" />
+</ClassDiagram>
